@@ -2,10 +2,11 @@
 
 import { useRef } from "react";
 import { motion, useMotionValue, useSpring } from "framer-motion";
-import { ArrowDownRight, Download, Send } from "lucide-react";
+import { ArrowDownRight, Download } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Container } from "@/components/shared/Container";
 import { CTAButton } from "@/components/shared/CTAButton";
+import { TelegramIcon } from "@/components/shared/SocialIcons";
 import { siteConfig } from "@/content/site";
 import { fadeUp, staggerContainer } from "@/lib/motion";
 import { useReducedMotion } from "@/hooks/useReducedMotion";
@@ -97,7 +98,7 @@ export function Hero() {
               variant="ghost"
               external
             >
-              <Send className="size-4" />
+              <TelegramIcon className="text-[#2AABEE]" />
               {t("contact")}
             </CTAButton>
           </motion.div>

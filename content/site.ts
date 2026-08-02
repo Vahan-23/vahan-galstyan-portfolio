@@ -83,6 +83,32 @@ export const faqIds = [
   "support",
 ] as const;
 
+/** Contact form guided choices */
+export const contactGoalIds = [
+  "website",
+  "redesign",
+  "app",
+  "fix",
+  "hire",
+  "question",
+  "other",
+] as const;
+
+export const contactBudgetIds = [
+  "under1k",
+  "1to3k",
+  "3to6k",
+  "over6k",
+  "unsure",
+] as const;
+
+export const contactTimelineIds = [
+  "asap",
+  "weeks",
+  "months",
+  "flexible",
+] as const;
+
 export const serviceGroupMeta = [
   {
     id: "websites",

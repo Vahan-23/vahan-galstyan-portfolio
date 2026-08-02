@@ -1,17 +1,25 @@
 "use client";
 
-import { ArrowUp, Send } from "lucide-react";
+import { ArrowUp } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { siteConfig } from "@/content/site";
-import { GitHubIcon, LinkedInIcon } from "@/components/shared/SocialIcons";
+import {
+  GitHubIcon,
+  LinkedInIcon,
+  TelegramIcon,
+} from "@/components/shared/SocialIcons";
 
 export function Footer() {
   const t = useTranslations("footer");
   const year = new Date().getFullYear();
 
   const social = [
-    { href: siteConfig.links.telegram, label: "Telegram", icon: Send },
+    {
+      href: siteConfig.links.telegram,
+      label: "Telegram",
+      icon: TelegramIcon,
+    },
     { href: siteConfig.links.github, label: "GitHub", icon: GitHubIcon },
     { href: siteConfig.links.linkedin, label: "LinkedIn", icon: LinkedInIcon },
   ];

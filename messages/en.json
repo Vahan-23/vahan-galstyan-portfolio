@@ -27,7 +27,7 @@
   "hero": {
     "role": "Frontend Developer",
     "location": "Yerevan, Armenia",
-    "subtitle": "I build modern websites and online products for businesses and teams — clear design, fast pages, and a smooth experience on phone and desktop.",
+    "subtitle": "I build production websites and web products for businesses — clear structure, fast performance, and a polished experience on phone and desktop.",
     "viewProjects": "See my work",
     "downloadResume": "Download CV",
     "contact": "Write me",
@@ -296,7 +296,7 @@
   "contact": {
     "eyebrow": "Contact",
     "title": "Contact",
-    "description": "Want to work together or ask about a site? Write on Telegram — that is the fastest way.",
+    "description": "Tell me the goal — choose options or write freely. Clear brief in, clear next step out.",
     "email": "Email",
     "phone": "Phone",
     "whatsapp": "WhatsApp",
@@ -304,22 +304,66 @@
     "linkedin": "LinkedIn",
     "github": "GitHub",
     "telegram": "Telegram",
+    "fastest": "fastest reply",
     "todoTelegram": "[TODO: Telegram]",
     "resume": "Resume",
+    "formTitle": "Project brief",
+    "formLead": "Select what you need. Budget and timeline help me reply with a realistic scope.",
+    "replyNote": "Usually reply within 24 hours on business days.",
+    "promises": {
+      "scope": "Clear scope and price before any paid work starts",
+      "quality": "Production-ready code — not a disposable template",
+      "reply": "Direct communication, no agency middlemen"
+    },
     "name": "Name",
     "namePlaceholder": "Your name",
     "emailLabel": "Email",
     "emailPlaceholder": "you@company.com",
-    "message": "Message",
-    "messagePlaceholder": "Role, timeline, or project brief…",
+    "optional": "(optional)",
+    "goalLabel": "What do you need?",
+    "goalHint": "Choose one — add details below if you want.",
+    "budgetLabel": "Budget",
+    "timelineLabel": "Timeline",
+    "goals": {
+      "website": "New website",
+      "redesign": "Redesign",
+      "app": "Web app",
+      "fix": "Fixes / support",
+      "hire": "Job / hire me",
+      "question": "Quick question",
+      "other": "Something else"
+    },
+    "budgets": {
+      "under1k": "Under $1k",
+      "1to3k": "$1-3k",
+      "3to6k": "$3-6k",
+      "over6k": "$6k+",
+      "unsure": "Not sure"
+    },
+    "timelines": {
+      "asap": "ASAP",
+      "weeks": "2-4 weeks",
+      "months": "1-3 months",
+      "flexible": "Flexible"
+    },
+    "message": "Your note",
+    "messagePlaceholder": "Goals, links, references, or anything useful…",
+    "attachment": "Photo or file",
+    "attachmentHint": "Images, PDF, DOC, ZIP — up to 8 MB.",
+    "removeAttachment": "Remove file",
     "send": "Send message",
     "sending": "Sending…",
-    "sentNote": "Form validated locally. [TODO: wire form handler] — for now email me directly.",
-    "error": "Something went wrong. Please email {email}.",
+    "sentNote": "Message sent. I’ll get back to you soon.",
+    "error": "Something went wrong. Please email {email} or write on Telegram.",
     "errors": {
       "name": "Name is required",
       "email": "Enter a valid email",
-      "message": "Message should be at least 10 characters"
+      "message": "Message should be at least 10 characters",
+      "choiceOrMessage": "Choose what you need, or write a short note.",
+      "fileTooLarge": "File is too large (max 8 MB)",
+      "fileType": "This file type is not supported",
+      "rateLimited": "Too many messages. Try again later or write on Telegram.",
+      "chatNotFound": "Telegram chat is not set up yet. Open the bot, press Start, then update TELEGRAM_CHAT_ID."
     }
   },
   "services": {
@@ -444,8 +488,13 @@
   "loading": "Loading…",
   "pricing": {
     "eyebrow": "Prices",
-    "title": "Simple pricing",
-    "description": "Here are the main options. If you are not sure what you need — just message me and we will figure it out.",
+    "title": "Clear packages, real delivery",
+    "description": "You pay for a finished product: structure, speed, and a site that is ready to use — not a half-done mockup.",
+    "includes": {
+      "responsive": "Works cleanly on phone and desktop",
+      "code": "Clean, maintainable code you can keep or hand off",
+      "launch": "Help with launch, basic SEO, and next steps"
+    },
     "viewAll": "See full price list",
     "from": "From",
     "askPrice": "Ask about a project"

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" fill="none">
+  <rect width="1200" height="750" fill="#0A0A0B"/>
+  <rect x="48" y="48" width="1104" height="654" rx="16" stroke="#27272A" fill="#111113"/>
+  <rect x="88" y="100" width="220" height="14" rx="7" fill="#3B82F6"/>
+  <rect x="88" y="140" width="420" height="36" rx="8" fill="#ECECEF"/>
+  <rect x="88" y="200" width="520" height="12" rx="6" fill="#3F3F46"/>
+  <rect x="88" y="224" width="380" height="12" rx="6" fill="#3F3F46"/>
+  <rect x="88" y="300" width="300" height="180" rx="12" stroke="#27272A" fill="#161618"/>
+  <rect x="420" y="300" width="300" height="180" rx="12" stroke="#27272A" fill="#161618"/>
+  <rect x="752" y="300" width="300" height="180" rx="12" stroke="#27272A" fill="#161618"/>
+  <circle cx="238" cy="390" r="28" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="570" cy="390" r="28" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="902" cy="390" r="28" stroke="#3B82F6" stroke-width="2"/>
+  <text x="88" y="620" fill="#8B8B93" font-family="ui-sans-serif, system-ui" font-size="22">Mijocarum.am  Event platform</text>
+  <text x="88" y="655" fill="#52525B" font-family="ui-sans-serif, system-ui" font-size="16">{{TODO: replace with real screenshot}}</text>
+</svg>

@@ -1,0 +1,453 @@
+{
+  "meta": {
+    "title": "Vahan Galstyan — Frontend Developer",
+    "titleTemplate": "%s · Vahan Galstyan",
+    "description": "I build websites and web apps that are fast, clear, and easy to use. Open to full-time work, contracts, and freelance projects.",
+    "servicesTitle": "Services",
+    "servicesDescription": "Frontend services with clear packages — websites, apps, integrations, and hourly React / Next.js work by Vahan Galstyan.",
+    "ogLocale": "en_US"
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Work",
+    "experience": "Experience",
+    "process": "Process",
+    "services": "All prices",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "hireMe": "Contact me",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "primary": "Primary",
+    "mobile": "Mobile",
+    "language": "Language",
+    "pricing": "Prices"
+  },
+  "hero": {
+    "role": "Frontend Developer",
+    "location": "Yerevan, Armenia",
+    "subtitle": "I build modern websites and online products for businesses and teams — clear design, fast pages, and a smooth experience on phone and desktop.",
+    "viewProjects": "See my work",
+    "downloadResume": "Download CV",
+    "contact": "Write me",
+    "aria": "Hero",
+    "eyebrow": "Frontend Developer",
+    "title": "VAHAN GALSTYAN",
+    "viewServices": "See packages",
+    "stepsTitle": "How it works",
+    "steps": [
+      {
+        "title": "1. Brief",
+        "text": "Tell me the goal, pages, deadline, and references."
+      },
+      {
+        "title": "2. Scope & price",
+        "text": "I reply with a clear package, timeline, and next step."
+      },
+      {
+        "title": "3. Build & launch",
+        "text": "I design/build in React / Next.js and deploy to production."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Who I am",
+    "srTitle": "About Vahan Galstyan",
+    "p1": "I am a frontend developer. I build websites and web apps for clients and companies — from the first idea to a finished site that people can use.",
+    "p2": "I also have experience with servers and office systems. That helps me understand not only how a site looks, but how it stays online and works day to day.",
+    "focus": "I work with",
+    "focusValue": "Modern websites and web apps",
+    "basedIn": "Based in",
+    "basedInValue": "Yerevan, Armenia",
+    "openTo": "Open to",
+    "openToValue": "Full-time · Contract · Freelance",
+    "also": "Also good at",
+    "alsoValue": "Keeping systems stable after launch"
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Tools I ship with",
+    "description": "Grouped by how I actually use them — no fake proficiency bars.",
+    "groups": {
+      "languages": "Languages",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools"
+    }
+  },
+  "projects": {
+    "eyebrow": "Work",
+    "title": "Sites I built",
+    "description": "Real projects online. Short and clear — what they do and what you can open.",
+    "features": "What is inside",
+    "responsibilities": "Responsibilities",
+    "result": "Result",
+    "liveDemo": "Open site",
+    "github": "GitHub",
+    "readMore": "Ask about this",
+    "todoLive": "[TODO: live / store link]",
+    "todoRepo": "[TODO: GitHub repo]",
+    "items": {
+      "armtruck": {
+        "title": "Armenian Truck Service",
+        "tagline": "Company website",
+        "description": "A business website with services, contact form, map, three languages — plus an admin panel to issue certificates and check licenses.",
+        "features": [
+          "Clear service pages",
+          "Admin panel for certificates",
+          "License verification tools",
+          "Contact form and map",
+          "Armenian, Russian, and English"
+        ],
+        "responsibilities": [
+          "Designed and built the full Next.js site",
+          "Admin flows for certificates and licenses",
+          "Languages, SEO, contact and maps"
+        ],
+        "result": "Live company site."
+      },
+      "opnstage": {
+        "title": "Открытая сцена",
+        "tagline": "Non-profit organization site",
+        "description": "A website for ANO Open Stage — a non-profit that helps young talents get stage experience through concerts, education, and festivals.",
+        "features": [
+          "Clear pages about the project and how to join",
+          "Sections for parents, experts, and participants",
+          "Contact form and organization details",
+          "Mobile-friendly layout"
+        ],
+        "responsibilities": [
+          "Built a clear multi-section site for the organization",
+          "Structured content for visitors and parents",
+          "Contact flow and production launch"
+        ],
+        "result": "Live site: opnstage.ru"
+      },
+      "mijocarum": {
+        "title": "Mijocarum.am",
+        "tagline": "Website for events",
+        "description": "A site where organizers manage events, guests, replies, and seating — and can track every guest action in one place. Works well on phone and computer.",
+        "features": [
+          "Login for organizers",
+          "Guest list and RSVP replies",
+          "Tracking of all guest actions",
+          "Interactive seating plan",
+          "Armenian and Russian languages"
+        ],
+        "responsibilities": [
+          "UI architecture and reusable component system",
+          "Auth, RSVP, seating, and guest activity tracking",
+          "Responsive and multi-language implementation"
+        ],
+        "result": "Live product used for real events."
+      }
+    }
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Work history",
+    "description": "A short timeline — from freelance sites to company roles.",
+    "items": {
+      "freelance": {
+        "role": "Frontend Developer",
+        "company": "Freelance",
+        "location": "Remote",
+        "period": "11/2023 – Present",
+        "bullets": [
+          "Build and launch websites for clients, from first request to a live site.",
+          "Connect forms, login, and other site features to company systems.",
+          "Work directly with clients and small teams, and deliver on time."
+        ]
+      },
+      "tinkoff": {
+        "role": "Systems Engineer",
+        "company": "Tinkoff Bank",
+        "location": "On-site",
+        "period": "04/2023 – 10/2023",
+        "bullets": [
+          "Fixed server and computer problems so office work could continue without long downtime.",
+          "Supported workstations for staff across the office."
+        ]
+      },
+      "hadros": {
+        "role": "Frontend Developer Intern",
+        "company": "Hadros",
+        "location": "Remote / Team",
+        "period": "11/2022 – 02/2023",
+        "bullets": [
+          "Built small web apps with login and page navigation.",
+          "Connected the site to company data and worked with the team through code reviews."
+        ]
+      },
+      "inretail": {
+        "role": "System Administrator",
+        "company": "InRetail LLC",
+        "location": "On-site",
+        "period": "04/2018 – 10/2020",
+        "bullets": [
+          "Kept computers, networks, and office systems running day to day."
+        ]
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "How I work",
+    "description": "A clear path when we collaborate — from first call to support after launch.",
+    "steps": {
+      "1": {
+        "title": "Discovery",
+        "description": "Clarify goals, audience, constraints, and success criteria before any UI work starts."
+      },
+      "2": {
+        "title": "Design",
+        "description": "Translate requirements into a clear structure, component plan, and interaction model."
+      },
+      "3": {
+        "title": "Development",
+        "description": "Ship clean React / Next.js UI with typed APIs, reusable components, and accessible markup."
+      },
+      "4": {
+        "title": "Testing",
+        "description": "Verify flows across breakpoints, fix edge cases, and catch regressions before release."
+      },
+      "5": {
+        "title": "Deployment",
+        "description": "Ship to production with attention to performance, SEO basics, and environment setup."
+      },
+      "6": {
+        "title": "Support",
+        "description": "Iterate on feedback, fix issues quickly, and keep the product maintainable after launch."
+      }
+    }
+  },
+  "whyHire": {
+    "eyebrow": "Strengths",
+    "title": "How I show up",
+    "description": "Practical habits from shipping client work and joining existing teams.",
+    "items": {
+      "communication": {
+        "title": "Fast communication",
+        "description": "Clear updates, short feedback loops, no radio silence."
+      },
+      "cleanCode": {
+        "title": "Clean code",
+        "description": "Typed, readable React / Next.js that teammates can extend."
+      },
+      "pixel": {
+        "title": "Pixel-precise UI",
+        "description": "Careful spacing, states, and visual consistency."
+      },
+      "responsive": {
+        "title": "Responsive by default",
+        "description": "Layouts that hold up from phone to desktop."
+      },
+      "seo": {
+        "title": "SEO-friendly markup",
+        "description": "Semantic structure and practical metadata habits."
+      },
+      "scalable": {
+        "title": "Scalable structure",
+        "description": "Component systems that grow without becoming spaghetti."
+      },
+      "reusable": {
+        "title": "Reusable components",
+        "description": "Shared primitives instead of one-off UI copies."
+      },
+      "detail": {
+        "title": "Attention to detail",
+        "description": "Focus rings, empty states, and the small edges that build trust."
+      },
+      "solver": {
+        "title": "Problem solver",
+        "description": "Infrastructure background means I think past the browser tab."
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Straight answers",
+    "description": "Common questions from hiring managers and freelance clients.",
+    "items": {
+      "redesign": {
+        "question": "Can you redesign an existing site?",
+        "answer": "Yes. I can audit the current UI, plan a cleaner structure, and rebuild or restyle pages in React / Next.js while keeping what already works."
+      },
+      "figma": {
+        "question": "Do you build from Figma?",
+        "answer": "Yes. I implement Figma designs as pixel-accurate, responsive components — with reusable patterns so the UI stays consistent as it grows."
+      },
+      "apis": {
+        "question": "Can you integrate APIs?",
+        "answer": "Yes. I regularly wire front-ends to REST APIs, including auth, forms, and typed clients when a generated TypeScript SDK is available."
+      },
+      "performance": {
+        "question": "Do you optimize performance?",
+        "answer": "Yes. I focus on fast first paint: image optimization, code splitting, lean client JS, and sensible Core Web Vitals practices."
+      },
+      "support": {
+        "question": "Do you support or maintain existing projects?",
+        "answer": "Yes. I can join an existing codebase, fix bugs, ship features, and improve structure without a full rewrite unless one is actually needed."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Contact",
+    "description": "Want to work together or ask about a site? Write on Telegram — that is the fastest way.",
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "viber": "Viber",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "telegram": "Telegram",
+    "todoTelegram": "[TODO: Telegram]",
+    "resume": "Resume",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "message": "Message",
+    "messagePlaceholder": "Role, timeline, or project brief…",
+    "send": "Send message",
+    "sending": "Sending…",
+    "sentNote": "Form validated locally. [TODO: wire form handler] — for now email me directly.",
+    "error": "Something went wrong. Please email {email}.",
+    "errors": {
+      "name": "Name is required",
+      "email": "Enter a valid email",
+      "message": "Message should be at least 10 characters"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Freelance & contract offerings",
+    "description": "Separate from the hiring narrative on the homepage — scoped builds and hourly help when you need frontend capacity.",
+    "emailStart": "Email to start",
+    "contactForm": "Contact form",
+    "ctaTitle": "Ready to scope a build?",
+    "ctaDescription": "Send a short brief — goals, timeline, and stack — and I’ll reply with a clear next step.",
+    "openContact": "Open contact",
+    "groups": {
+      "websites": {
+        "title": "Websites",
+        "subtitle": "Ready-made website options for businesses and personal brands.",
+        "items": {
+          "landing": {
+            "name": "Landing",
+            "description": "One clear page with your offer and a contact button."
+          },
+          "portfolio": {
+            "name": "Portfolio",
+            "description": "A site to show your work and attract clients."
+          },
+          "business": {
+            "name": "Business Website",
+            "description": "A few pages: services, about, and contact."
+          },
+          "corporate": {
+            "name": "Corporate",
+            "description": "A larger company site with a clear structure for search and visitors."
+          }
+        }
+      },
+      "apps": {
+        "title": "Apps & Systems",
+        "subtitle": "Product-style interfaces and operational tools.",
+        "items": {
+          "dashboard": {
+            "name": "Dashboard",
+            "description": "Screens to view numbers, filters, and key actions."
+          },
+          "admin": {
+            "name": "Admin Panel",
+            "description": "A panel to add, edit, and manage site content."
+          },
+          "booking": {
+            "name": "Booking System",
+            "description": "Scheduling flows, availability, and confirmation UX."
+          },
+          "restaurant": {
+            "name": "Restaurant Management",
+            "description": "Menus, orders, and staff-facing management screens."
+          },
+          "ecommerce": {
+            "name": "E-commerce",
+            "description": "Catalog, cart, and checkout-ready store pages."
+          },
+          "crm": {
+            "name": "Custom CRM",
+            "description": "Custom pipelines, records, and workflow screens."
+          },
+          "saas": {
+            "name": "Full SaaS",
+            "description": "Multi-page product UI with auth and core feature set."
+          }
+        }
+      },
+      "addons": {
+        "title": "Integrations & Optimization",
+        "subtitle": "Targeted work on existing products.",
+        "items": {
+          "api": {
+            "name": "API Integration",
+            "description": "Wire UI to REST endpoints with solid error and loading states."
+          },
+          "optimization": {
+            "name": "Website Optimization",
+            "description": "Performance, SEO basics, and responsive cleanup pass."
+          }
+        }
+      },
+      "hourly": {
+        "title": "Hourly",
+        "subtitle": "Flexible help when you need an extra pair of hands.",
+        "items": {
+          "bugs": {
+            "name": "Bug Fixing",
+            "description": "Find and fix problems on an existing site."
+          },
+          "review": {
+            "name": "Code Review",
+            "description": "Readable feedback on structure, a11y, and maintainability."
+          },
+          "react": {
+            "name": "React Development",
+            "description": "Hourly help building or improving a website."
+          },
+          "consulting": {
+            "name": "Frontend Consulting",
+            "description": "Architecture advice, stack choices, and UI planning."
+          },
+          "nextjs": {
+            "name": "Next.js Development",
+            "description": "App Router features, routing, and production UI work."
+          }
+        }
+      }
+    }
+  },
+  "footer": {
+    "role": "Frontend Developer",
+    "backToTop": "Back to top"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "description": "That route doesn’t exist. Head back home or jump to projects.",
+    "home": "Back home",
+    "projects": "View projects"
+  },
+  "loading": "Loading…",
+  "pricing": {
+    "eyebrow": "Prices",
+    "title": "Simple pricing",
+    "description": "Here are the main options. If you are not sure what you need — just message me and we will figure it out.",
+    "viewAll": "See full price list",
+    "from": "From",
+    "askPrice": "Ask about a project"
+  }
+}

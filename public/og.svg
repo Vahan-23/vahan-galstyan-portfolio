@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0A0A0B"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#g)"/>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0A0A0B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <text x="80" y="220" fill="#3B82F6" font-family="ui-sans-serif, system-ui" font-size="28" font-weight="600" letter-spacing="4">FRONTEND DEVELOPER</text>
+  <text x="80" y="320" fill="#ECECEF" font-family="ui-sans-serif, system-ui" font-size="72" font-weight="700">Vahan Galstyan</text>
+  <text x="80" y="390" fill="#8B8B93" font-family="ui-sans-serif, system-ui" font-size="28">React · Next.js · TypeScript</text>
+  <text x="80" y="540" fill="#52525B" font-family="ui-sans-serif, system-ui" font-size="20">Yerevan, Armenia</text>
+</svg>

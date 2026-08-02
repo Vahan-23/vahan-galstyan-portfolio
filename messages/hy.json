@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "title": "Վահան Գալստյան — Frontend Developer",
+    "titleTemplate": "%s · Վահան Գալստյան",
+    "description": "Frontend developer, որը React, Next.js և TypeScript-ով կառուցում է արագ, հասանելի վեբ հավելվածներ՝ UI ճարտարապետությունից մինչև production-ում տեղադրում:",
+    "servicesTitle": "Ծառայություններ",
+    "servicesDescription": "Freelance և contract frontend ծառայություններ՝ կայքեր, հավելվածներ, ինտեգրացիաներ և React / Next.js ժամային աշխատանք Վահան Գալստյանի կողմից:",
+    "ogLocale": "hy_AM"
+  },
+  "nav": {
+    "about": "Իմ մասին",
+    "skills": "Հմտություններ",
+    "projects": "Նախագծեր",
+    "experience": "Փորձ",
+    "process": "Գործընթաց",
+    "services": "Ծառայություններ",
+    "faq": "FAQ",
+    "contact": "Կապ",
+    "hireMe": "Hire me",
+    "openMenu": "Բացել մենյուն",
+    "closeMenu": "Փակել մենյուն",
+    "primary": "Հիմնական նավիգացիա",
+    "mobile": "Բջջային նավիգացիա",
+    "language": "Լեզու"
+  },
+  "hero": {
+    "role": "Frontend Developer",
+    "location": "Երևան, Հայաստան",
+    "subtitle": "Կառուցում եմ արագ և accessible վեբ հավելվածներ React, Next.js և TypeScript-ով՝ UI architecture-ից մինչև production deployment։",
+    "viewProjects": "View Projects",
+    "downloadResume": "Download CV",
+    "contact": "Contact",
+    "aria": "Hero"
+  },
+  "about": {
+    "eyebrow": "Իմ մասին",
+    "title": "Frontend՝ production մտածելակերպով",
+    "srTitle": "Վահան Գալստյանի մասին",
+    "p1": "Frontend developer եմ՝ commercial և freelance փորձով։ Production հավելվածներ եմ առաքում React, Next.js և TypeScript stack-ով՝ REST API, authentication, responsive UI, reusable component systems և clean architecture։",
+    "p2": "Ուժեղ կողմս infrastructure background-ն է Tinkoff-ից և InRetail-ից․ հասկանում եմ deployment-ը և այն, թե ինչպես են համակարգերը աշխատում production-ում՝ ոչ միայն UI շերտը։ Սիրում եմ բարդ UI խնդիրներ, որտեղ structure-ը, performance-ը և clarity-ն պետք է միասին աշխատեն։",
+    "focus": "Ֆոկուս",
+    "focusValue": "React · Next.js · TypeScript",
+    "basedIn": "Գտնվելու վայր",
+    "basedInValue": "Երևան, Հայաստան",
+    "openTo": "Բաց եմ",
+    "openToValue": "Full-time · Contract · Freelance",
+    "also": "Նաև",
+    "alsoValue": "Servers, networking, deployment context"
+  },
+  "skills": {
+    "eyebrow": "Հմտություններ",
+    "title": "Գործիքներ, որոնցով աշխատում եմ",
+    "description": "Խմբավորված իրական օգտագործմամբ՝ առանց կեղծ տոկոսների։",
+    "groups": {
+      "languages": "Լեզուներ",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Գործիքներ"
+    }
+  },
+  "projects": {
+    "eyebrow": "Նախագծեր",
+    "title": "Ընտրված աշխատանքներ",
+    "description": "Production կայքեր և product UI՝ ազնիվ scope, առանց ուռճացված metrics։",
+    "features": "Key features",
+    "responsibilities": "Responsibilities",
+    "result": "Result",
+    "liveDemo": "Live Demo",
+    "github": "GitHub",
+    "readMore": "Read More",
+    "todoLive": "[TODO: live / store link]",
+    "todoRepo": "[TODO: GitHub repo]",
+    "items": {
+      "mijocarum": {
+        "title": "Mijocarum.am",
+        "tagline": "Event management platform",
+        "description": "Multi-page վեբ platform միջոցառումներ կազմակերպելու համար՝ authentication, guest-list management, RSVP tracking և interactive seating-plan editor:",
+        "features": [
+          "Օգտատերերի authentication և հյուրերի կառավարում",
+          "RSVP tracking flow",
+          "Interactive seating-plan editor",
+          "Միջոցառումների ժամանակացույցի manager",
+          "Fully responsive UI",
+          "Multi-language (Armenian / Russian)",
+          "Reusable React component library"
+        ],
+        "responsibilities": [
+          "UI architecture և reusable component system",
+          "Auth, RSVP և seating-plan flow-եր",
+          "Responsive և multi-language implementation"
+        ],
+        "result": "[TODO: result metric — e.g. events hosted, users, or launch outcome]"
+      },
+      "armtruck": {
+        "title": "Armenian Truck Service",
+        "tagline": "Corporate website",
+        "description": "Next.js corporate site՝ dedicated service page-եր, contact form-եր, embedded map-եր և ամբողջական multi-language support:",
+        "features": [
+          "SEO-optimized markup",
+          "Responsive multi-page layout",
+          "Multi-language (Armenian / Russian / English)",
+          "Contact forms",
+          "Google Maps integration",
+          "Optimised images"
+        ],
+        "responsibilities": [
+          "Նախագծել և կառուցել ամբողջ Next.js site-ը",
+          "i18n, SEO և contact/maps integration-ներ",
+          "Production deployment"
+        ],
+        "result": "[TODO: result metric or launch note]"
+      },
+      "statue-collector": {
+        "title": "Statue Collector",
+        "tagline": "Unity mobile app 3D model-ներով",
+        "description": "Mobile application արձաններ հավաքելու համար՝ interactive 3D model-ներով և experiential collection mechanic-ով: Targeting Android և iOS:",
+        "features": [
+          "Interactive 3D statue models",
+          "Catalogue UI",
+          "Collection mechanic",
+          "Android & iOS targets"
+        ],
+        "responsibilities": [
+          "Catalogue UI և 3D viewing experience",
+          "Unity interactive scene-եր"
+        ],
+        "result": "Ներկայումս development-ի փուլում է:",
+        "status": "Development-ի փուլում"
+      }
+    }
+  },
+  "experience": {
+    "eyebrow": "Փորձ",
+    "title": "Ազնիվ ուղի",
+    "description": "Նախ frontend աշխատանք՝ infrastructure փորձը օգնում է ավելի լավ առաքել product։",
+    "items": {
+      "freelance": {
+        "role": "Frontend Developer",
+        "company": "Freelance",
+        "location": "Remote",
+        "period": "11/2023 – առ այսօր",
+        "bullets": [
+          "Կառուցում և մատակարարում եմ responsive multi-page website-ներ և web app-եր React / Next.js-ում՝ requirements-ից մինչև deployment:",
+          "Front-end-երը ինtegrate եմ REST API-ների հետ. implement եմ authentication, state management և form validation:",
+          "Աշխատում եմ ուղղակի client-ների և փոքր team-երի հետ. onboard եմ գործող codebase-ներում և ship եմ feature-ներ schedule-ով:"
+        ]
+      },
+      "tinkoff": {
+        "role": "Systems Engineer",
+        "company": "Tinkoff Bank",
+        "location": "On-site",
+        "period": "04/2023 – 10/2023",
+        "bullets": [
+          "Troubleshoot և resolve արեցի server խնդիրները Ubuntu Linux-ում՝ internal service-երը reliable պահելով minimal downtime-ով:",
+          "Maintained operator workstation-ներ, որպեսզի staff-ը կարողանար աշխատել առանց interruption-ների:"
+        ]
+      },
+      "hadros": {
+        "role": "Frontend Developer Intern",
+        "company": "Hadros",
+        "location": "Remote / Team",
+        "period": "11/2022 – 02/2023",
+        "bullets": [
+          "Կառուցեցի փոքր React application-ներ from scratch, ներառյալ authentication flow-եր և routing:",
+          "REST API-ներ consume արեցի auto-generated TypeScript client-ի միջոցով՝ type-երը backend-ի հետ sync պահելով:",
+          "Աշխատեցի Git-based team workflow-ում code review-ներով և pull request-ներով:"
+        ]
+      },
+      "inretail": {
+        "role": "System Administrator",
+        "company": "InRetail LLC",
+        "location": "On-site",
+        "period": "04/2018 – 10/2020",
+        "bullets": [
+          "Maintained և configured computer system-ներ, network server-ներ և virtualization day-to-day reliability-ի համար:"
+        ]
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Գործընթաց",
+    "title": "Ինչպես եմ աշխատում",
+    "description": "Վեց կոնկրետ քայլ՝ առաջին զանգից մինչև support թողարկումից հետո։",
+    "steps": {
+      "1": {
+        "title": "Discovery",
+        "description": "Պարզաբանում եմ goals, audience, constraints և success criteria-ն, նախքան UI աշխատանքը սկսելը:"
+      },
+      "2": {
+        "title": "Design",
+        "description": "Requirements-ը translate եմ clear structure, component plan և interaction model-ի:"
+      },
+      "3": {
+        "title": "Development",
+        "description": "Ship եմ clean React / Next.js UI typed API-ներով, reusable component-ներով և accessible markup-ով:"
+      },
+      "4": {
+        "title": "Testing",
+        "description": "Verify եմ flow-երը breakpoint-ների across, fix edge case-եր և catch regressions release-ից առաջ:"
+      },
+      "5": {
+        "title": "Deployment",
+        "description": "Ship եմ production՝ attention performance, SEO basics և environment setup-ին:"
+      },
+      "6": {
+        "title": "Support",
+        "description": "Iterate եմ feedback-ի վրա, fix issue-ներ quickly և maintainable եմ պահում product-ը launch-ից հետո:"
+      }
+    }
+  },
+  "whyHire": {
+    "eyebrow": "Why hire me",
+    "title": "Ինչ եք ստանում ամեն օր",
+    "description": "Կարճ և գործնական․ առանց դատարկ buzzword-ների։",
+    "items": {
+      "communication": {
+        "title": "Արագ հաղորդակցություն",
+        "description": "Պարզ update-ներ, կարճ feedback loop-եր, radio silence չկա:"
+      },
+      "cleanCode": {
+        "title": "Clean code",
+        "description": "Typed, readable React / Next.js, որը teammate-ները կարող են extend անել:"
+      },
+      "pixel": {
+        "title": "Pixel-precise UI",
+        "description": "Ուշադիր spacing, state-եր և visual consistency:"
+      },
+      "responsive": {
+        "title": "Responsive by default",
+        "description": "Layout-ներ, որոնք hold up են անում phone-ից desktop:"
+      },
+      "seo": {
+        "title": "SEO-friendly markup",
+        "description": "Semantic structure և practical metadata habits:"
+      },
+      "scalable": {
+        "title": "Scalable structure",
+        "description": "Component system-ներ, որ grow են առանց spaghetti դառնալու:"
+      },
+      "reusable": {
+        "title": "Reusable components",
+        "description": "Shared primitive-ներ one-off UI copy-ների փոխարեն:"
+      },
+      "detail": {
+        "title": "Ուշադրություն մանրուքներին",
+        "description": "Focus ring-եր, empty state-եր և small edge-երը, որ trust են կառուցում:"
+      },
+      "solver": {
+        "title": "Problem solver",
+        "description": "Infrastructure background-ը նշանակում է, որ մտածում եմ browser tab-ից դուրս:"
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Ուղիղ պատասխաններ",
+    "description": "Հաճախակի հարցեր hiring managers-ից և freelance clients-ից։",
+    "items": {
+      "redesign": {
+        "question": "Կարո՞ղ եք redesign անել գործող site-ը:",
+        "answer": "Այո: Կարող եմ audit անել current UI-ն, plan անել cleaner structure և rebuild/restyle անել page-երը React / Next.js-ում՝ պահելով այն, ինչ արդեն աշխատում է:"
+      },
+      "figma": {
+        "question": "Figma-ից build եք անո՞ւմ:",
+        "answer": "Այո: Figma design-ները implement եմ pixel-accurate, responsive component-ներով՝ reusable pattern-ներով, որպեսզի UI-ն consistent մնա grow-ի հետ:"
+      },
+      "apis": {
+        "question": "API-ներ integrate կարո՞ղ եք:",
+        "answer": "Այո: Regularly wire եմ front-end-երը REST API-ների, ներառյալ auth, form-եր և typed client-ներ, երբ generated TypeScript SDK available է:"
+      },
+      "performance": {
+        "question": "Performance optimize եք անո՞ւմ:",
+        "answer": "Այո: Focus եմ fast first paint-ի վրա. image optimization, code splitting, lean client JS և sensible Core Web Vitals practices:"
+      },
+      "support": {
+        "question": "Support կամ maintain եք անո՞ւմ գործող project-ները:",
+        "answer": "Այո: Կարող եմ join անել existing codebase, fix bug-եր, ship feature-ներ և improve structure առանց full rewrite-ի, եթե դա իրականում պետք չէ:"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Կապ",
+    "title": "Let’s talk",
+    "description": "Բաց եմ full-time frontend roles-ի, contracts-ի և focused freelance builds-ի համար։",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "telegram": "Telegram",
+    "todoTelegram": "[TODO: Telegram]",
+    "resume": "Resume",
+    "name": "Անուն",
+    "namePlaceholder": "Ձեր անունը",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "message": "Հաղորդագրություն",
+    "messagePlaceholder": "Role, timeline կամ project brief…",
+    "send": "Send message",
+    "sending": "Sending…",
+    "sentNote": "Form-ը վավերացվել է locally։ [TODO: wire form handler] — առայժմ գրեք email-ով։",
+    "error": "Ինչ-որ բան սխալ գնաց։ Խնդրում ենք գրել {email}։",
+    "errors": {
+      "name": "Անունը պարտադիր է",
+      "email": "Մուտքագրեք վավեր email",
+      "message": "Հաղորդագրությունը պետք է լինի առնվազն 10 նիշ"
+    }
+  },
+  "services": {
+    "eyebrow": "Ծառայություններ",
+    "title": "Freelance & contract offerings",
+    "description": "Առանձին homepage hiring narrative-ից՝ scoped builds և hourly help, երբ պետք է frontend capacity։",
+    "emailStart": "Email to start",
+    "contactForm": "Contact form",
+    "ctaTitle": "Ready to scope a build?",
+    "ctaDescription": "Ուղարկեք կարճ brief՝ goals, timeline և stack, և կպատասխանեմ հստակ next step-ով։",
+    "openContact": "Open contact",
+    "groups": {
+      "websites": {
+        "title": "Կայքեր",
+        "subtitle": "Marketing և presence site-եր production-ready:",
+        "items": {
+          "landing": {
+            "name": "Landing",
+            "description": "Single-page site clear CTA-ով և responsive layout-ով:"
+          },
+          "portfolio": {
+            "name": "Portfolio",
+            "description": "Personal կամ studio portfolio project showcase-ով:"
+          },
+          "business": {
+            "name": "Business Website",
+            "description": "Multi-page business site contact և services-ով:"
+          },
+          "corporate": {
+            "name": "Corporate",
+            "description": "Ավելի մեծ corporate site SEO-friendly structure-ով:"
+          }
+        }
+      },
+      "apps": {
+        "title": "Apps & Systems",
+        "subtitle": "Product-style interface-ներ և operational tool-եր:",
+        "items": {
+          "dashboard": {
+            "name": "Dashboard",
+            "description": "Data-focused UI chart-երով, filter-ներով և state-երով:"
+          },
+          "admin": {
+            "name": "Admin Panel",
+            "description": "CRUD-heavy panel table-ներով, form-երով և roles-ready UI-ով:"
+          },
+          "booking": {
+            "name": "Booking System",
+            "description": "Scheduling flow-եր, availability և confirmation UX:"
+          },
+          "restaurant": {
+            "name": "Restaurant Management",
+            "description": "Menu-ներ, order-ներ և staff-facing management screen-եր:"
+          },
+          "ecommerce": {
+            "name": "E-commerce",
+            "description": "Catalogue, cart և checkout-oriented storefront UI:"
+          },
+          "crm": {
+            "name": "Custom CRM",
+            "description": "Custom pipeline-ներ, record-ներ և workflow screen-եր:"
+          },
+          "saas": {
+            "name": "Full SaaS",
+            "description": "Multi-page product UI auth-ով և core feature set-ով:"
+          }
+        }
+      },
+      "addons": {
+        "title": "Integrations & Optimization",
+        "subtitle": "Targeted աշխատանք existing product-ների վրա:",
+        "items": {
+          "api": {
+            "name": "API Integration",
+            "description": "Wire UI REST endpoint-ներին solid error և loading state-երով:"
+          },
+          "optimization": {
+            "name": "Website Optimization",
+            "description": "Performance, SEO basics և responsive cleanup pass:"
+          }
+        }
+      },
+      "hourly": {
+        "title": "Hourly",
+        "subtitle": "Flexible help, երբ extra pair of hands է պետք:",
+        "items": {
+          "bugs": {
+            "name": "Bug Fixing",
+            "description": "Reproduce, fix և verify frontend issue-ներ:"
+          },
+          "review": {
+            "name": "Code Review",
+            "description": "Readable feedback structure, a11y և maintainability-ի վրա:"
+          },
+          "react": {
+            "name": "React Development",
+            "description": "Feature աշխատանք React codebase-ներում:"
+          },
+          "consulting": {
+            "name": "Frontend Consulting",
+            "description": "Architecture advice, stack choice-եր և UI planning:"
+          },
+          "nextjs": {
+            "name": "Next.js Development",
+            "description": "App Router feature-ներ, routing և production UI աշխատանք:"
+          }
+        }
+      }
+    }
+  },
+  "footer": {
+    "role": "Frontend Developer",
+    "backToTop": "Back to top"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "description": "Այդ route-ը գոյություն չունի։ Վերադարձեք home կամ projects։",
+    "home": "Back home",
+    "projects": "View projects"
+  },
+  "loading": "Loading…"
+}
